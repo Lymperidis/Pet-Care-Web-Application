@@ -19,10 +19,10 @@ This project was developed as part of the **HY-359 Web Programming** course, foc
 ## 📸 Screenshots
 
 ### Landing Page
-![Pet-Care Landing Page](/screeshots/pet-care-1.png)
+![Pet-Care Landing Page](/screenshots/pet-care-1.png)
 
 ### Admin Login
-![Pet-Care Admin Login](/screeshots/pet2.png)
+![Pet-Care Admin Login](/screenshots/pet2.png)
 
 ## 🎯 Features
 
